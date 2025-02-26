@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel-Chacha
-- 👀Passionate at Web development and Machine Learning.
-- 🌱 I’m good at  Django framework.
+- 👀Passionate about Web development and Machine Learning.
+- 🌱 Proficient  at  Next js, django and python.
 - 💞️ I’m looking forward to connecting with other techies.
 - 📫 How to reach me: email - danmwita355@gmail.com
 - 😄 Pronouns: He/ him.
