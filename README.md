@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daniel-Chacha
-- 👀Passionate about Web development and Machine Learning.
+- 👀Passionate about UI/UX , Web dev and Machine Learning.
 - 🌱 Proficient  at  Next js, django and python.
 - 💞️ I’m looking forward to connecting with other techies.
 - 📫 How to reach me: email - danmwita355@gmail.com
