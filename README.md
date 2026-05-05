@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel-Chacha
-- 👀Passionate about UI/UX , Web dev and Machine Learning.
-- 🌱 Proficient  at  Next js, django and python.
+- 👀 Immersed into Machine Learning & Web Dev.
+- 🌱 Proficient  at  Keras, Tensorflow, Python and Next js,.
 - 💞️ I’m looking forward to connecting with other techies.
 - 📫 How to reach me: email - danielmwita251@gmail.com
 - 😄 Pronouns: He/ him.
